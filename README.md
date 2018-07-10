@@ -6,6 +6,5 @@
 </head>
 <body>
 	前端自学
-	1111
 </body>
 </html>
