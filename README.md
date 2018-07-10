@@ -5,8 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	前端自学
-	11111
-	22222
+	<p>前端自学</p>
+	<p>作业练习</p>
 </body>
 </html>
